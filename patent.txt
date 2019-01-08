@@ -1,0 +1,13 @@
+9967097: Method and system for converting data in an electronic device
+- Converting data from a first to second format using a generated key from parameters associated with user and the zone is not related to our IP.
+
+9967096: Rewritable blockchain 
+- Rewriting blockchains secured by a chameleon hash is not related to our IP.
+
+9965623: Securing accessible systems using base function encoding 
+- 
+
+9965565: Methods and terminals for generating and reading 2D barcode and servers 
+- Using a a generated information access address based on the received private information to generate a 2D barcode is not related to our IP.
+
+9961108: 
