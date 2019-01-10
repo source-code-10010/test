@@ -1,0 +1,26 @@
+9985933: System and method of sending and receiving secret message content over a network 
+- Sending a secret message content over a network using an encrypted setting to encrypt message object format is not related to our IP.
+
+2018/0144121: NON-REPUDIATION OF BROADCAST MESSAGING 
+- Broadcasting the received message and a first piece of non-repudiation evidence from a publishing entity to the subscribing entities is not related to our IP.
+
+ 2018/0145951: SYSTEM, APPARATUS AND METHOD FOR PROVIDING TRUSTED INPUT/OUTPUT COMMUNICATIONS 
+- Providing a trusted input/output communications by using a stream parser in a wireless controller is not related to our IP.
+
+2018/0137290:  APPARATUS, METHOD AND ARTICLE OF MANUFACTURE FOR PARTIALLY RESISTING HARDWARE TROJAN INDUCED DATA LEAKAGE IN SEQUENTIAL LOGICS 
+- Resisting hardware trojan using a randomized encoding scheme for sequential logics is not related to our IP.
+
+2018/0139045:  SECURE COMPUTATION DATA UTILIZATION SYSTEM, METHOD, APPARATUS AND NON-TRANSITORY MEDIUM 
+- Instructing one or more secure computation apparatuses to perform a secret computation by an intermediate apparatus based on the request from an application apparatus is not related to our IP.
+
+20180139046 : END-TO-END ENCRYPTION OF A BLOCK STORAGE DEVICE WITH PROTECTED KEY 
+- Protecting an encryption key for a block storage device by reading a secure key from a superblock of the block storage device is not related to our IP.
+
+2018/0139184: SYSTEMS AND METHODS FOR CRYPTOGRAPHY HAVING ASYMMETRIC TO SYMMETRIC KEY AGREEMENT 
+- Using a generated public code using a secret key and a rule of obfuscation to a first computing device to generate an obfuscated matrix pattern is not related to our IP.
+
+9971906- Apparatus and method for continuous data protection in a distributed computing network 
+- Re-encryption of a first data at rest system to the second data at rest system is not related to our IP.
+
+9971907- Zero-knowledge databases 
+- 
