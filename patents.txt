@@ -1,0 +1,15 @@
+10009324 - Host card emulation systems and methods 
+-> Generating a PIN based key using a message digest of the PIN from the detected point of sale is not related to our IP.
+
+10009172 - Instructions processors, methods, and systems to process secure hash algorithms 
+-> pota study!!!!!!
+
+10009171 - Construction and uses of variable-input-length tweakable ciphers 
+-> Providing authenticated encryption for plaintext message using a variable-input-length tweakable cipher (VILTC) is not related to our IP.
+
+10007773 - Method for generating public identity for authenticating an individual carrying an identification object 
+-> Using a biometric data to generate public identity for authentication is not related to our IP.
+
+10007723 - Methods for identifying audio or video content 
+-> Using an online content distribution site for audio or video content identification is not related to our IP.
+
